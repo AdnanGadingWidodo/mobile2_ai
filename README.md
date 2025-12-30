@@ -1,16 +1,21 @@
-# ai_23312031
+# Mobile AI Chat App (ai_23312031)
 
-A new Flutter project.
+Aplikasi chat AI berbasis Flutter yang terintegrasi dengan Google Gemini API (Gemini 2.5 Flash).
+Aplikasi ini memungkinkan pengguna berinteraksi dengan AI secara real-time melalui antarmuka mobile.
 
-## Getting Started
+## 🚀 Fitur Utama
+- Chat AI menggunakan Google Gemini
+- UI modern dengan bubble chat
+- State management menggunakan Provider
+- Keamanan API Key menggunakan file `.env`
+- Arsitektur kode terstruktur (Controller, Repository, Service)
 
-This project is a starting point for a Flutter application.
+## 🛠 Teknologi yang Digunakan
+- Flutter
+- Dart
+- Google Gemini API
+- Provider
+- HTTP
+- flutter_dotenv
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Struktur Proyek
